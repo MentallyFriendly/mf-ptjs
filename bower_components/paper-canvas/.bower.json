@@ -1,0 +1,36 @@
+{
+  "name": "paper-canvas",
+  "description": "Paper.js and canvas element wrapper.",
+  "authors": [
+    "Octavio Turra <octavio.turra@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "dist/paper-canvas.html",
+  "keywords": [
+    "polymer",
+    "canvas",
+    "paper-js",
+    "drawing",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.5",
+    "paper": "~0.9.18"
+  },
+  "homepage": "https://github.com/octavioturra/paper-canvas",
+  "_release": "d924c6d692",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d924c6d692ec24b945555f5467565a9edb72922f"
+  },
+  "_source": "https://github.com/octavioturra/paper-canvas.git",
+  "_target": "*",
+  "_originalSource": "paper-canvas",
+  "_direct": true
+}
